@@ -20,6 +20,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DBM",
    "address",
    "number"
@@ -58,6 +59,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DA",
    "address",
    "number"
@@ -97,6 +99,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DAR",
    "address",
    "number"
@@ -135,6 +138,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DepEd",
    "address",
    "number"
@@ -173,6 +177,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOE",
    "address",
    "number"
@@ -215,6 +220,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DENR",
    "address",
    "number"
@@ -253,6 +259,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOF",
    "address",
    "number"
@@ -292,6 +299,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DFA",
    "address",
    "number"
@@ -331,6 +339,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOH",
    "address",
    "number"
@@ -373,6 +382,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DHSUD",
    "address",
    "number"
@@ -414,6 +424,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DICT",
    "address",
    "number"
@@ -455,6 +466,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DILG",
    "address",
    "number"
@@ -494,6 +506,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOJ",
    "address",
    "number"
@@ -535,6 +548,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOLE",
    "address",
    "number"
@@ -574,6 +588,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DMW",
    "address",
    "number"
@@ -613,6 +628,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DND",
    "address",
    "number"
@@ -655,6 +671,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DPWH",
    "address",
    "number"
@@ -695,6 +712,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOST",
    "address",
    "number"
@@ -736,6 +754,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DSWD",
    "address",
    "number"
@@ -774,6 +793,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOT",
    "address",
    "number"
@@ -814,6 +834,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DTI",
    "address",
    "number"
@@ -853,6 +874,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DOTr",
    "address",
    "number"
@@ -894,6 +916,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "DEPDev",
    "address",
    "number"
@@ -931,6 +954,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "OP",
    "address",
    "number"
@@ -969,6 +994,10 @@
    "ng",
    "head",
    "contact",
+   "Bise",
+   "Presidente",
+   "Pangalawang",
+   "Pangulo",
    "OVP",
    "address",
    "number"
@@ -1008,6 +1037,7 @@
    "ng",
    "head",
    "contact",
+   "Kalihim",
    "PCO",
    "address",
    "number"
@@ -2238,13 +2268,13 @@
    "the",
    "Pro",
    "Tempore",
+   "Pangulo",
+   "ng",
+   "Senado",
    "Majority",
    "Leader",
    "Minority",
-   "leaders",
-   "pangulo",
-   "ng",
-   "Senado"
+   "leaders"
   ],
   "tags": [
    "bettergov",
@@ -2307,6 +2337,8 @@
    "who",
    "is",
    "Deputy",
+   "Ispiker",
+   "Kapulungan",
    "Majority",
    "Leader",
    "Minority",
@@ -2349,7 +2381,11 @@
    "ng",
    "head",
    "contact",
-   "justices"
+   "Punong",
+   "Mahistrado",
+   "justices",
+   "Korte",
+   "Suprema"
   ],
   "tags": [
    "bettergov",
@@ -2387,7 +2423,11 @@
    "contact",
    "Chief",
    "justices",
-   "Supreme"
+   "Supreme",
+   "Punong",
+   "Mahistrado",
+   "Korte",
+   "Suprema"
   ],
   "tags": [
    "bettergov",
@@ -2425,7 +2465,11 @@
    "Chief",
    "justices",
    "Supreme",
-   "Court"
+   "Court",
+   "Punong",
+   "Mahistrado",
+   "Korte",
+   "Suprema"
   ],
   "tags": [
    "bettergov",
@@ -2461,6 +2505,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "CSC",
    "address",
    "number"
@@ -2500,6 +2545,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "COA",
    "address",
    "number"
@@ -2539,6 +2585,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "COMELEC",
    "address",
    "number"
@@ -2579,6 +2626,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "CHR",
    "address",
    "number"
@@ -2660,6 +2708,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "AAIIBP",
    "address",
    "number"
@@ -2702,6 +2751,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "APUI",
    "address",
    "number"
@@ -2746,6 +2797,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "APEZFA",
    "address",
    "number"
@@ -2786,6 +2839,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "AFAB",
    "address",
    "number"
@@ -2829,6 +2883,7 @@
    "ang",
    "head",
    "contact",
+   "Tagapangulo",
    "BSNP",
    "address",
    "number"
@@ -2871,6 +2926,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "BCDA",
    "address",
    "number"
@@ -2913,6 +2970,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "BLCI",
    "address",
    "number"
@@ -2953,6 +3012,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "BSP",
    "address",
    "number"
@@ -2992,6 +3053,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "BFI",
    "address",
    "number"
@@ -3034,6 +3096,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "CEZA",
    "address",
    "number"
@@ -3122,6 +3185,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "CITEM",
    "address",
    "number"
@@ -3164,6 +3228,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "CAAP",
    "address",
    "number"
@@ -3206,6 +3271,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "CDC",
    "address",
    "number"
@@ -3248,6 +3315,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "CIAC",
    "address",
    "number"
@@ -3291,6 +3360,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "CIIFG",
    "address",
    "number"
@@ -3332,6 +3403,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "CIC",
    "address",
    "number"
@@ -3371,6 +3444,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "CCP",
    "address",
    "number"
@@ -3457,6 +3532,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "DDCI",
    "address",
    "number"
@@ -3498,6 +3575,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "DLC",
    "address",
    "number"
@@ -3539,6 +3618,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "DAP",
    "address",
    "number"
@@ -3580,6 +3661,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "DBP",
    "address",
    "number"
@@ -3664,6 +3747,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "ECC",
    "address",
    "number"
@@ -3704,6 +3788,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "FTI",
    "address",
    "number"
@@ -3747,6 +3833,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "GSIS",
    "address",
    "number"
@@ -3789,6 +3877,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "GREI",
    "address",
    "number"
@@ -3873,6 +3963,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "IBC-13",
    "address",
    "number"
@@ -3915,6 +4007,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "JHMC",
    "address",
    "number"
@@ -3956,6 +4050,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "KRC",
    "address",
    "number"
@@ -4040,6 +4136,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "Landbank",
    "address",
    "number"
@@ -4083,6 +4181,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "LCDFI",
    "address",
    "number"
@@ -4124,6 +4224,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "LSI",
    "address",
    "number"
@@ -4166,6 +4268,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "LIBI",
    "address",
    "number"
@@ -4208,6 +4312,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "LLFC",
    "address",
    "number"
@@ -4252,6 +4358,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "LRDC",
    "address",
    "number"
@@ -4293,6 +4401,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "LRTA",
    "address",
    "number"
@@ -4334,6 +4443,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "LWUA",
    "address",
    "number"
@@ -4374,6 +4484,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "LCP",
    "address",
    "number"
@@ -4456,6 +4567,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "MIC",
    "address",
    "number"
@@ -4539,6 +4652,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "MRHI",
    "address",
    "number"
@@ -4581,6 +4696,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "MWSS",
    "address",
    "number"
@@ -4621,6 +4737,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "NDA",
    "address",
    "number"
@@ -4700,6 +4817,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "NEA",
    "address",
    "number"
@@ -4740,6 +4858,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "NFA",
    "address",
    "number"
@@ -4783,6 +4902,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "NHMFC",
    "address",
    "number"
@@ -4863,6 +4984,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "NIA",
    "address",
    "number"
@@ -4905,6 +5027,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "NKTI",
    "address",
    "number"
@@ -4946,6 +5069,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "NPC",
    "address",
    "number"
@@ -4986,6 +5111,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "NTA",
    "address",
    "number"
@@ -5027,6 +5153,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "NTC",
    "address",
    "number"
@@ -5069,6 +5197,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "NRDC",
    "address",
    "number"
@@ -5110,6 +5240,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "NPFI",
    "address",
    "number"
@@ -5151,6 +5282,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "OFB",
    "address",
    "number"
@@ -5194,6 +5327,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PDGCC",
    "address",
    "number"
@@ -5235,6 +5370,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PTC",
    "address",
    "number"
@@ -5317,6 +5454,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PADC",
    "address",
    "number"
@@ -5359,6 +5498,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "PAGCOR",
    "address",
    "number"
@@ -5401,6 +5541,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PCED",
    "address",
    "number"
@@ -5483,6 +5624,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PCMC",
    "address",
    "number"
@@ -5524,6 +5666,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "PCA",
    "address",
    "number"
@@ -5565,6 +5708,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PCIC",
    "address",
    "number"
@@ -5607,6 +5752,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PDIC",
    "address",
    "number"
@@ -5648,6 +5795,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PEZA",
    "address",
    "number"
@@ -5732,6 +5880,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PGC",
    "address",
    "number"
@@ -5774,6 +5924,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PhilHealth",
    "address",
    "number"
@@ -5814,6 +5966,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PHC",
    "address",
    "number"
@@ -5854,6 +6007,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PIDS",
    "address",
    "number"
@@ -5898,6 +6053,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PITAHC",
    "address",
    "number"
@@ -5940,6 +6096,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PITC",
    "address",
    "number"
@@ -5982,6 +6140,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PMDC",
    "address",
    "number"
@@ -6025,6 +6185,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PNCC",
    "address",
    "number"
@@ -6068,6 +6230,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PNOC",
    "address",
    "number"
@@ -6151,6 +6315,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PPPI",
    "address",
    "number"
@@ -6352,6 +6518,7 @@
    "ng",
    "head",
    "contact",
+   "Direktor",
    "PRRI",
    "address",
    "number"
@@ -6391,6 +6558,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PTA",
    "address",
    "number"
@@ -6432,6 +6601,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PRC",
    "address",
    "number"
@@ -6473,6 +6644,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PPI",
    "address",
    "number"
@@ -6514,6 +6687,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PEC",
    "address",
    "number"
@@ -6555,6 +6730,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PRC",
    "address",
    "number"
@@ -6595,6 +6772,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PPMC",
    "address",
    "number"
@@ -6636,6 +6815,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "PIA",
    "address",
    "number"
@@ -6680,6 +6860,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "PSALMC",
    "address",
    "number"
@@ -6720,6 +6902,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "QCDA",
    "address",
    "number"
@@ -6761,6 +6944,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "SBC",
    "address",
    "number"
@@ -6801,6 +6986,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "SHFC",
    "address",
    "number"
@@ -6842,6 +7029,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "SSS",
    "address",
    "number"
@@ -6885,6 +7074,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "SPDA",
    "address",
    "number"
@@ -6927,6 +7117,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "SBMA",
    "address",
    "number"
@@ -6969,6 +7160,7 @@
    "ng",
    "head",
    "contact",
+   "Administrador",
    "SRA",
    "address",
    "number"
@@ -7101,6 +7293,7 @@
    "ng",
    "head",
    "contact",
+   "Tagapangulo",
    "ZCSEZAF",
    "address",
    "number"
@@ -7143,6 +7336,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "ULFC",
    "address",
    "number"
@@ -7185,6 +7380,8 @@
    "ng",
    "head",
    "contact",
+   "Pangulo",
+   "Presidente",
    "USBI",
    "address",
    "number"

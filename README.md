@@ -24,6 +24,8 @@ This repository is served by GitHub Pages at **https://mr-jones123.github.io/kuy
 | `bettergov-directory.json` | Department heads, executive offices, Congress, the Supreme Court, government corporations | 182 |
 | `bettergov-hotlines.json` | Emergency and agency hotlines | 19 |
 | `bettergov-visas.json` | Philippine visa types and their requirements | 23 |
+| `bettergov-history.json` | BetterGov.ph's Philippine history timeline | 17 |
+| `nhcp-markers.json` | The [NHCP](https://philhistoricsites.nhcp.gov.ph) registry of historical markers, marker text word for word (government works, no copyright) | 1,635 |
 
 Every record ends with its source and a date: **checked** when someone verified the source on that date (guides,
 holidays, department heads), **listed** when it's only the date BetterGov.ph last updated that data.

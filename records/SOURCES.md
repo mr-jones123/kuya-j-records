@@ -11,4 +11,5 @@ Content: CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission. Fact
 | bettergov-holidays.json | 69 |
 | bettergov-directory.json | 182 |
 | bettergov-visas.json | 23 |
-| **total** | **451** |
+| bettergov-history.json | 17 |
+| **total** | **468** |
