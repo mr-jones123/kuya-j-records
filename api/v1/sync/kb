@@ -1,0 +1,11 @@
+{
+ "algorithm": "Ed25519",
+ "signatureEncoding": "base64",
+ "byteLength": 628589,
+ "sha256": "ee5c8905c45a98e2273b99a9c9cdc0be01edb9cf89a355e32d2aa301910cfeb4",
+ "version": "2026-11-26T08:17:34Z",
+ "keyId": "a71fd704bf13d226",
+ "url": "https://mr-jones123.github.io/kuya-j-records/kb/bundle-20261126T081734Z.json",
+ "publishedAt": "2026-11-26T08:17:34Z",
+ "signature": "C1xJMTKs3Gyb3IA3U36NIHn2Kre3kvgba8eFt50MpfBYLjR5dfJK7eXfIZiIsRhhlDCFBRHLOroP1Nc2k/CUCA=="
+}

@@ -1,0 +1,795 @@
+[
+ {
+  "id": "bg-visa-13a",
+  "category": "requirements",
+  "title": "Immigrant Visa by Marriage (13A): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Immigrant Visa by Marriage (13A) is one of the immigrant visas: For foreign nationals married to Filipino citizens. Minimum requirements: Valid passport; Marriage certificate; Birth certificate of Filipino spouse; Police clearance from country of origin; Medical examination results.\nSource: https://immigration.gov.ph/immigrant-visa-by-marriage-13a (listed 2025-06-06).",
+  "keywords": [
+   "Immigrant",
+   "Visa",
+   "by",
+   "Marriage",
+   "(13A)",
+   "requirements",
+   "for",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/immigrant-visa-by-marriage-13a",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-13g",
+  "category": "requirements",
+  "title": "Returning Former Natural-Born Filipino Citizen (13G): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Returning Former Natural-Born Filipino Citizen (13G) is one of the immigrant visas: For former natural-born Filipino citizens who wish to return to the Philippines. Minimum requirements: Valid passport; Proof of former Filipino citizenship; Birth certificate; Police clearance from country of residence.\nSource: https://immigration.gov.ph/returning-former-natural-born-filipino-citizen-13g (listed 2025-06-06).",
+  "keywords": [
+   "Returning",
+   "Former",
+   "Natural-Born",
+   "Filipino",
+   "Citizen",
+   "(13G)",
+   "visa",
+   "requirements",
+   "for",
+   "Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/returning-former-natural-born-filipino-citizen-13g",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-13e",
+  "category": "requirements",
+  "title": "Returning Resident (13E): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Returning Resident (13E) is one of the immigrant visas: For permanent residents returning to the Philippines after temporary absence. Minimum requirements: Valid passport; Proof of permanent resident status; Proof of departure from the Philippines.\nSource: https://immigration.gov.ph/returning-resident-13e (listed 2025-06-06).",
+  "keywords": [
+   "Returning",
+   "Resident",
+   "(13E)",
+   "visa",
+   "requirements",
+   "for",
+   "Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/returning-resident-13e",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-13",
+  "category": "requirements",
+  "title": "Quota Visa (13): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Quota Visa (13) is one of the immigrant visas: For foreign nationals from countries with reciprocity agreements with the Philippines. Minimum requirements: Valid passport; Police clearance from country of origin; Medical examination results; Proof of financial capacity.\nSource: https://immigration.gov.ph/quota-visa-13 (listed 2025-06-06).",
+  "keywords": [
+   "Quota",
+   "Visa",
+   "(13)",
+   "requirements",
+   "for",
+   "Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/quota-visa-13",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-prv",
+  "category": "requirements",
+  "title": "Permanent Resident Visa (PRV): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Permanent Resident Visa (PRV) is one of the immigrant visas: For foreign nationals who wish to permanently reside in the Philippines. Minimum requirements: Valid passport; Police clearance from country of origin; Medical examination results; Proof of financial capacity.\nSource: https://immigration.gov.ph/permanent-resident-visa-prv (listed 2025-06-06).",
+  "keywords": [
+   "Permanent",
+   "Resident",
+   "Visa",
+   "(PRV)",
+   "requirements",
+   "for",
+   "Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/permanent-resident-visa-prv",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9a",
+  "category": "requirements",
+  "title": "Temporary Visitor Visa (9A): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Temporary Visitor Visa (9A) is one of the non-immigrant visas: For foreign tourists or temporary visitors to the Philippines. Minimum requirements: Valid passport; Return ticket; Proof of accommodation; Proof of financial capacity.\nSource: https://immigration.gov.ph/visas/visa-waiver/ (listed 2025-06-06).",
+  "keywords": [
+   "Temporary",
+   "Visitor",
+   "Visa",
+   "(9A)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/visas/visa-waiver/",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9b",
+  "category": "requirements",
+  "title": "Transit Visa (9B): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Transit Visa (9B) is one of the non-immigrant visas: For foreign nationals transiting through the Philippines. Minimum requirements: Valid passport; Confirmed onward ticket; Visa for next destination (if required).\nSource: https://immigration.gov.ph/transit-visa-9b (listed 2025-06-06).",
+  "keywords": [
+   "Transit",
+   "Visa",
+   "(9B)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/transit-visa-9b",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9c",
+  "category": "requirements",
+  "title": "Seaman's Visa (9C): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Seaman's Visa (9C) is one of the non-immigrant visas: For foreign seafarers joining vessels in Philippine ports. Minimum requirements: Valid passport; Seaman's book; Letter from shipping company; Crew list.\nSource: https://immigration.gov.ph/seaman-s-visa-9c (listed 2025-06-06).",
+  "keywords": [
+   "Seaman's",
+   "Visa",
+   "(9C)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/seaman-s-visa-9c",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9f",
+  "category": "requirements",
+  "title": "Student Visa (9F): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Student Visa (9F) is one of the non-immigrant visas: For foreign students enrolled in Philippine educational institutions. Minimum requirements: Valid passport; Admission to an accredited school; Proof of financial capacity; Police clearance from country of origin.\nSource: https://immigration.gov.ph/student-visa-9f (listed 2025-06-06).",
+  "keywords": [
+   "Student",
+   "Visa",
+   "(9F)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/student-visa-9f",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9g",
+  "category": "requirements",
+  "title": "Pre-arranged Employment Visa (9G): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Pre-arranged Employment Visa (9G) is one of the non-immigrant visas: For foreign nationals with pre-arranged employment in the Philippines. Minimum requirements: Valid passport; Employment contract; Alien Employment Permit (AEP); Police clearance from country of origin.\nSource: https://immigration.gov.ph/pre-arranged-employment-visa-9g (listed 2025-06-06).",
+  "keywords": [
+   "Pre-arranged",
+   "Employment",
+   "Visa",
+   "(9G)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/pre-arranged-employment-visa-9g",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-trv",
+  "category": "requirements",
+  "title": "Temporary Resident Visa (TRV): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Temporary Resident Visa (TRV) is one of the non-immigrant visas: For foreign nationals who are temporary residents in the Philippines. Minimum requirements: Valid passport; Proof of financial capacity; Purpose of stay documentation.\nSource: https://immigration.gov.ph/temporary-resident-visa-trv (listed 2025-06-06).",
+  "keywords": [
+   "Temporary",
+   "Resident",
+   "Visa",
+   "(TRV)",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/temporary-resident-visa-trv",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9d",
+  "category": "requirements",
+  "title": "Treaty Trader or Treaty Investor (9D): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Treaty Trader or Treaty Investor (9D) is one of the non-immigrant visas: For foreign nationals engaged in trade or investment in the Philippines under a treaty. Minimum requirements: Valid passport; Proof of substantial trade or investment; Business registration documents.\nSource: https://immigration.gov.ph/treaty-trader-or-treaty-investor-9d (listed 2025-06-06).",
+  "keywords": [
+   "Treaty",
+   "Trader",
+   "or",
+   "Investor",
+   "(9D)",
+   "visa",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/treaty-trader-or-treaty-investor-9d",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-9e",
+  "category": "requirements",
+  "title": "Accredited Official of Foreign Government (9E): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Accredited Official of Foreign Government (9E) is one of the non-immigrant visas: For foreign government officials accredited to the Philippines. Minimum requirements: Valid passport; Official accreditation documents; Note verbale from sending government.\nSource: https://immigration.gov.ph/accredited-official-of-foreign-government-9e (listed 2025-06-06).",
+  "keywords": [
+   "Accredited",
+   "Official",
+   "of",
+   "Foreign",
+   "Government",
+   "(9E)",
+   "visa",
+   "requirements",
+   "for",
+   "Non-Immigrant",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/accredited-official-of-foreign-government-9e",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-sevua",
+  "category": "requirements",
+  "title": "Visa Upon Arrival (SEVUA): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Visa Upon Arrival (SEVUA) is one of the special visas: For foreign nationals eligible for visa issuance upon arrival in the Philippines. Minimum requirements: Valid passport; Proof of accommodation; Pre-approval from Philippine authorities.\nSource: https://immigration.gov.ph/visa-upon-arrival-sevua (listed 2025-06-06).",
+  "keywords": [
+   "Visa",
+   "Upon",
+   "Arrival",
+   "(SEVUA)",
+   "requirements",
+   "for",
+   "Special",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/visa-upon-arrival-sevua",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-srrv",
+  "category": "requirements",
+  "title": "Special Resident Retiree Visa (SRRV): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Resident Retiree Visa (SRRV) is one of the special visas: For foreign retirees who wish to reside permanently or indefinitely in the Philippines. Minimum requirements: Valid passport; Time deposit in an accredited bank; Medical examination results.\nSource: https://pra.gov.ph/srrv/ (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Resident",
+   "Retiree",
+   "Visa",
+   "(SRRV)",
+   "requirements",
+   "for",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://pra.gov.ph/srrv/",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-sirv",
+  "category": "requirements",
+  "title": "Special Investor Resident Visa (SIRV): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Investor Resident Visa (SIRV) is one of the special visas: For foreign investors who invest a minimum amount in the Philippines. Minimum requirements: Valid passport; Proof of investment; Business registration documents.\nSource: https://immigration.gov.ph/special-visa-for-employment-generation (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Investor",
+   "Resident",
+   "Visa",
+   "(SIRV)",
+   "requirements",
+   "for",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-visa-for-employment-generation",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-sveg",
+  "category": "requirements",
+  "title": "Special Visa for Employment Generation (SVEG): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Visa for Employment Generation (SVEG) is one of the special visas: For foreign nationals who employ at least 10 Filipinos in their business. Minimum requirements: Valid passport; Business registration documents; Proof of employment of at least 10 Filipinos.\nSource: https://immigration.gov.ph/special-visa-for-employment-generation (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Visa",
+   "for",
+   "Employment",
+   "Generation",
+   "(SVEG)",
+   "requirements",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-visa-for-employment-generation",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-seobu",
+  "category": "requirements",
+  "title": "Special Employment Visa for Offshore Banking Unit (SEOBU): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Employment Visa for Offshore Banking Unit (SEOBU) is one of the special visas: For foreign employees of offshore banking units in the Philippines. Minimum requirements: Valid passport; Employment contract with offshore banking unit; Proof of qualifications.\nSource: https://immigration.gov.ph/special-employment-visa-for-offshore-banking-unit (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Employment",
+   "Visa",
+   "for",
+   "Offshore",
+   "Banking",
+   "Unit",
+   "(SEOBU)",
+   "requirements",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-employment-visa-for-offshore-banking-unit",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-seo226",
+  "category": "requirements",
+  "title": "Special Visa under E.O. 226 (SEO226): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Visa under E.O. 226 (SEO226) is one of the special visas: For foreign nationals investing in the Philippines under the Investment Code. Minimum requirements: Valid passport; Proof of investment; Business registration documents.\nSource: https://immigration.gov.ph/special-visa-under-e-o-226-as-amended-by-r-a-8756 (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Visa",
+   "under",
+   "E.O.",
+   "226",
+   "(SEO226)",
+   "requirements",
+   "for",
+   "Visas",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-visa-under-e-o-226-as-amended-by-r-a-8756",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-ssp",
+  "category": "requirements",
+  "title": "Special Study Permit: requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Study Permit is one of the special permits: For foreign students taking short courses in the Philippines. Minimum requirements: Valid passport; Admission to an educational institution; Proof of financial capacity.\nSource: https://immigration.gov.ph/special-study-permit (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Study",
+   "Permit",
+   "ssp",
+   "visa",
+   "requirements",
+   "for",
+   "Permits",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-study-permit",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-pwp",
+  "category": "requirements",
+  "title": "Provisional Work Permit: requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Provisional Work Permit is one of the special permits: For foreign nationals awaiting approval of their work visa. Minimum requirements: Valid passport; Employment contract; Pending work visa application.\nSource: https://immigration.gov.ph/provisional-work-permit (listed 2025-06-06).",
+  "keywords": [
+   "Provisional",
+   "Work",
+   "Permit",
+   "pwp",
+   "visa",
+   "requirements",
+   "for",
+   "Special",
+   "Permits",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/provisional-work-permit",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-swp-c",
+  "category": "requirements",
+  "title": "Special Work Permit (Commercial): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Work Permit (Commercial) is one of the special permits: For foreign nationals working temporarily in the Philippines. Minimum requirements: Valid passport; Employment contract; Proof of qualifications.\nSource: https://immigration.gov.ph/special-work-permit-commercial (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Work",
+   "Permit",
+   "(Commercial)",
+   "swp-c",
+   "visa",
+   "requirements",
+   "for",
+   "Permits",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-work-permit-commercial",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ },
+ {
+  "id": "bg-visa-swp-aa",
+  "category": "requirements",
+  "title": "Special Work Permit (Artists and Athletes): requirements",
+  "content": "As listed by BetterGov.ph (from the Bureau of Immigration, updated 2025-06-06), the Special Work Permit (Artists and Athletes) is one of the special permits: For foreign artists and athletes performing in the Philippines. Minimum requirements: Valid passport; Contract for performance or event; Proof of qualifications.\nSource: https://immigration.gov.ph/special-work-permit-commercial-2 (listed 2025-06-06).",
+  "keywords": [
+   "Special",
+   "Work",
+   "Permit",
+   "(Artists",
+   "and",
+   "Athletes)",
+   "swp-aa",
+   "visa",
+   "requirements",
+   "for",
+   "Permits",
+   "Philippine",
+   "Bureau",
+   "of",
+   "Immigration"
+  ],
+  "tags": [
+   "bettergov",
+   "visa"
+  ],
+  "metadata": {
+   "source": "https://immigration.gov.ph/special-work-permit-commercial-2",
+   "publisher": "Bureau of Immigration",
+   "asOf": "2025-06-06",
+   "dateLabel": "listed",
+   "via": "https://bettergov.ph/travel/visa-types",
+   "licence": "CC BY-NC-ND 4.0, BetterGov.ph; adapted for Kuya J with permission",
+   "bettergovCommit": "5ead8c027ad9",
+   "agency": "BI"
+  }
+ }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "req-002",
+    "category": "requirements",
+    "title": "Requirements for an NBI clearance",
+    "content": "Two valid government-issued IDs are listed for an NBI clearance branch visit, along with your reference number or QR code and proof of payment. The source says the IDs must be original and not expired. Source: https://nbi.gov.ph/how-to-apply-nbi-clearance/ (checked 2026-10-09).",
+    "keywords": [
+      "NBI requirements",
+      "requirements sa NBI",
+      "NBI clearance requirements",
+      "valid ID for NBI",
+      "ano ang dadalhin sa NBI",
+      "NBI reference number",
+      "kailangan ko ba ng 2 valid ID sa NBI"
+    ],
+    "tags": ["nbi", "clearance", "requirements"],
+    "metadata": {
+      "source": "https://nbi.gov.ph/how-to-apply-nbi-clearance/",
+      "publisher": "National Bureau of Investigation",
+      "asOf": "2026-10-09",
+      "agency": "NBI",
+      "sourcePath": "evidence/public-service/sources/nbi.json",
+      "sourceSha256": "1d10d4d4e4c6b9fa7879f3ef34e7be117fd2bc272495b52fc2b024bba118279a",
+      "excerpt": "Two (2) Valid Government-issued IDs",
+      "reviewBy": "2026-11-09",
+      "publicEvidence": true,
+      "language": "en",
+      "translationStatus": "original",
+      "sourceTransport": "web open text extraction"
+    }
+  },
+  {
+    "id": "req-011",
+    "category": "requirements",
+    "title": "Where the DFA lists passport requirements",
+    "content": "As of 2026-10-07, the DFA lists the documents for a passport application on its requirements page at consular.dfa.gov.ph/services/passport/requirements. The passport.gov.ph site links to that page and to the passport FAQ. The DFA publishes the list on its requirements page. Bring the documents that page lists for your case: new application or renewal, adult or minor. Appointments are free and run only through passport.gov.ph. Source: https://passport.gov.ph/ (checked 2026-10-07).",
+    "keywords": [
+      "passport requirements",
+      "requirements sa passport",
+      "mga kailangan sa passport",
+      "valid ID for passport",
+      "documents for passport",
+      "ano ang dadalhin sa DFA",
+      "passport renewal requirements"
+    ],
+    "tags": ["passport", "dfa", "requirements"],
+    "metadata": {
+      "source": "https://passport.gov.ph/",
+      "publisher": "Department of Foreign Affairs",
+      "asOf": "2026-10-07",
+      "agency": "DFA"
+    }
+  }
+]
