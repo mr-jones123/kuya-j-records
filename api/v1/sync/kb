@@ -1,11 +1,11 @@
 {
  "algorithm": "Ed25519",
  "signatureEncoding": "base64",
- "byteLength": 634694,
- "sha256": "539d4b44b99e0e0ba0a375f0370099bbbc34dec63f634e495f18ebe09dd8aca9",
- "version": "2026-11-26T10:03:07Z",
+ "byteLength": 613200,
+ "sha256": "69e33f974a983d70c7f3a4fa0efcd827e0f48652a4f516edee648d5f4b275397",
+ "version": "2026-11-26T10:23:25Z",
  "keyId": "a71fd704bf13d226",
- "url": "https://mr-jones123.github.io/kuya-j-records/kb/bundle-20261126T100307Z.json",
- "publishedAt": "2026-11-26T10:03:07Z",
- "signature": "mQH0gbad7/tAuycjmAsKCZl/LhvMgzXUxc9BmAlWBK5q0sHMQQy5KiH+MPF5c1N9TY69Au8si4IPyZthDov1Ag=="
+ "url": "https://mr-jones123.github.io/kuya-j-records/kb/bundle-20261126T102325Z.json",
+ "publishedAt": "2026-11-26T10:23:25Z",
+ "signature": "38U+YgiQOZ5/kVF0xK6UCJvVTuglnSHjweLF1yn/pW9p4fAr9FvDJJyTI3yWCnp17icSyUJJ4vJBZqtwsSjUCA=="
 }

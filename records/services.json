@@ -1,82 +1,34 @@
 [
   {
-    "id": "svc-002",
-    "category": "services",
-    "title": "How to apply for an NBI clearance",
-    "content": "As of 2026-10-07, you apply for an NBI clearance on the NBI Clearance Application Portal at clearance.nbi.gov.ph. 1. Complete the Applicant Information Form. 2. Click Apply for Clearance. 3. Choose an NBI branch, a date, and a time. 4. Choose a payment method and get a reference number. 5. Go to the branch. Staff take your photo, fingerprints, and signature. With no HIT, you get the clearance within minutes. If the system shows a HIT, you usually return after 5 to 10 working days. Source: https://nbi.gov.ph/how-to-apply-nbi-clearance/ (checked 2026-10-07).",
-    "keywords": [
-      "NBI clearance",
-      "NBI",
-      "paano kumuha ng NBI clearance",
-      "NBI clearance online",
-      "NBI appointment",
-      "apply NBI clearance",
-      "paano mag-apply sa NBI",
-      "NBI HIT",
-      "clearance application portal"
-    ],
-    "tags": ["nbi", "clearance", "employment"],
-    "metadata": {
-      "source": "https://nbi.gov.ph/how-to-apply-nbi-clearance/",
-      "publisher": "National Bureau of Investigation",
-      "asOf": "2026-10-07",
-      "agency": "NBI"
-    }
-  },
-  {
     "id": "svc-005",
     "category": "services",
     "title": "How to get an SS number and register online with SSS",
     "content": "As of 2026-10-07, the SSS assigns each member one lifetime SS Number. Prospective employees, self-employed people, overseas Filipino workers, and non-working spouses apply online. 1. Open the SS Number application on the SSS website. 2. Open the link in the confirmation email within 5 days. 3. Enter your personal details and beneficiaries. 4. Create a My.SSS User ID. 5. Generate your SS Number. You can also apply at an SSS branch E-Center. The page sss.gov.ph/register-to-mysss/ offers a Create account link for My.SSS. Source: https://www.sss.gov.ph/become-an-sss-member/ (checked 2026-10-07).",
     "keywords": [
-      "SSS number",
-      "SS number",
-      "SSS online registration",
+      "SSS",
+      "number",
+      "SS",
+      "online",
+      "registration",
       "My.SSS",
-      "paano kumuha ng SSS number",
-      "paano mag-apply ng SSS",
-      "SSS membership",
-      "SSS registration",
-      "mag-register sa My.SSS"
+      "paano",
+      "kumuha",
+      "ng",
+      "mag-apply",
+      "membership",
+      "mag-register",
+      "sa"
     ],
-    "tags": ["sss", "social-security", "membership"],
+    "tags": [
+      "sss",
+      "social-security",
+      "membership"
+    ],
     "metadata": {
       "source": "https://www.sss.gov.ph/become-an-sss-member/",
       "publisher": "Social Security System",
       "asOf": "2026-10-07",
       "agency": "SSS"
-    }
-  },
-  {
-    "id": "svc-011",
-    "category": "services",
-    "title": "Official Philippine passport appointment portal",
-    "content": "Book a Philippine passport appointment only at passport.gov.ph. Appointments are free. Source: https://passport.gov.ph/sites/site (checked 2026-10-09).",
-    "keywords": [
-      "passport",
-      "pasaporte",
-      "paano kumuha ng passport",
-      "passport application",
-      "DFA appointment",
-      "passport steps",
-      "how to get a passport",
-      "passport.gov.ph",
-      "mag-apply ng passport"
-    ],
-    "tags": ["passport", "dfa", "travel"],
-    "metadata": {
-      "source": "https://passport.gov.ph/sites/site",
-      "publisher": "Department of Foreign Affairs",
-      "asOf": "2026-10-09",
-      "agency": "DFA",
-      "sourcePath": "evidence/public-service/sources/passport-application.json",
-      "sourceSha256": "aba34f2a978ec9c0bf0e8d49ee662c1192b1f5a01dec750bbbd6caededa43eef",
-      "excerpt": "PASSPORT APPOINTMENTS ARE FREE AND SHOULD ONLY BE MADE VIA HTTPS://PASSPORT.GOV.PH.",
-      "reviewBy": "2026-11-09",
-      "publicEvidence": true,
-      "language": "en",
-      "translationStatus": "original",
-      "sourceTransport": "web search text extraction"
     }
   }
 ]

@@ -1,76 +1,35 @@
 [
   {
-    "id": "fee-002",
-    "category": "fees",
-    "title": "Fees and validity for an NBI clearance",
-    "content": "As of 2026-10-07, the NBI how-to page states that the basic clearance fee is PHP 130. The page adds an e-payment service charge. The official page does not state the validity period of the clearance. Check the amount on the portal before you pay. Source: https://nbi.gov.ph/how-to-apply-nbi-clearance/ (checked 2026-10-07).",
-    "keywords": [
-      "NBI clearance fee",
-      "magkano ang NBI clearance",
-      "bayad sa NBI",
-      "NBI clearance price",
-      "how much is NBI clearance",
-      "NBI validity",
-      "gaano katagal valid ang NBI clearance",
-      "NBI payment"
-    ],
-    "tags": ["nbi", "clearance", "fees"],
-    "metadata": {
-      "source": "https://nbi.gov.ph/how-to-apply-nbi-clearance/",
-      "publisher": "National Bureau of Investigation",
-      "asOf": "2026-10-07",
-      "agency": "NBI"
-    }
-  },
-  {
     "id": "fee-005",
     "category": "fees",
     "title": "Fees and validity for an SS number",
     "content": "As of 2026-10-07, the official page does not state the fee for an SS Number. The page does not state a processing time. The page states that the SS Number is a lifetime number. The page states that you use it in all transactions with the SSS. The SSS home page links a contribution table at sss.gov.ph/sss-contribution-table. This record does not cover that table. Source: https://www.sss.gov.ph/become-an-sss-member/ (checked 2026-10-07).",
     "keywords": [
-      "SSS fee",
-      "magkano ang SSS number",
-      "bayad sa SSS number",
-      "SS number free",
-      "libre ba ang SSS number",
-      "SSS contribution table",
-      "SS number validity"
+      "SSS",
+      "fee",
+      "magkano",
+      "ang",
+      "number",
+      "bayad",
+      "sa",
+      "SS",
+      "free",
+      "libre",
+      "ba",
+      "contribution",
+      "table",
+      "validity"
     ],
-    "tags": ["sss", "social-security", "fees"],
+    "tags": [
+      "sss",
+      "social-security",
+      "fees"
+    ],
     "metadata": {
       "source": "https://www.sss.gov.ph/become-an-sss-member/",
       "publisher": "Social Security System",
       "asOf": "2026-10-07",
       "agency": "SSS"
-    }
-  },
-  {
-    "id": "fee-011",
-    "category": "fees",
-    "title": "Passport fees in the DFA 2022 Citizen’s Charter",
-    "content": "The stored DFA 2022 Citizen’s Charter lists PHP 950 for a regular passport application and PHP 1,200 for expedited processing. This is a dated fee reference; confirm the current amount on the official portal before payment. Source: https://dfa.gov.ph/images/2022/Citizens_charter/Consolidated_DFA_Citizens_Charter_2022_1st_Edition_v4.pdf (checked 2026-10-09).",
-    "keywords": [
-      "passport fee",
-      "magkano ang passport",
-      "bayad sa passport",
-      "expedited passport",
-      "passport price"
-    ],
-    "tags": ["passport", "dfa", "fees"],
-    "metadata": {
-      "source": "https://dfa.gov.ph/images/2022/Citizens_charter/Consolidated_DFA_Citizens_Charter_2022_1st_Edition_v4.pdf",
-      "publisher": "Department of Foreign Affairs",
-      "asOf": "2026-10-09",
-      "agency": "DFA",
-      "sourcePath": "evidence/public-service/sources/passport-fee.json",
-      "sourceSha256": "df8a1418c87796e89581ec80b801ba16e051a49e70d025ef0539c270ea772752",
-      "excerpt": "<td>TOTAL REGULAR APPLICATION:</td>\n<td>PHP 950</td>",
-      "reviewBy": "2026-11-09",
-      "publicEvidence": true,
-      "searchTerms": "regular passport fee stored DFA charter",
-      "language": "en",
-      "translationStatus": "original",
-      "sourceTransport": "web search text extraction"
     }
   }
 ]

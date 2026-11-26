@@ -1,7 +1,7 @@
 # Notice for the source records
 
-The records in `fees.json`, `holidays.json`, `hotlines.json`, `officials.json`, `requirements.json` and
-`services.json` come from Airgap (https://github.com/xmpuspus/airgap),
+The records in `fees.json`, `hotlines.json`, `officials.json` and `services.json` (11 records, after the ones BetterGov.ph
+supersedes were retired on 2026-11-26) come from Airgap (https://github.com/xmpuspus/airgap),
 examples/government-services/knowledge, used under the MIT License:
 
 ```

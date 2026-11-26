@@ -18,7 +18,7 @@ This repository is served by GitHub Pages at **https://mr-jones123.github.io/kuy
 
 | Records | From | Count |
 |---|---|---|
-| `fees.json`, `holidays.json`, `hotlines.json`, `officials.json`, `requirements.json`, `services.json` | [Airgap](https://github.com/xmpuspus/airgap)'s government-services example | 27 |
+| `fees.json`, `hotlines.json`, `officials.json`, `services.json` | [Airgap](https://github.com/xmpuspus/airgap)'s government-services example (16 superseded by BetterGov.ph were retired) | 11 |
 | `bettergov-guides.json` | BetterGov.ph's 19 step-by-step guides (NBI, passport, PSA, TIN, PhilHealth, Pag-IBIG...), one record per section, text copied word for word | 158 |
 | `bettergov-holidays.json` | Holidays for 2025-2027 from the proclamations, one record per holiday plus yearly lists | 69 |
 | `bettergov-directory.json` | Department heads, executive offices, Congress, the Supreme Court, government corporations | 182 |
