@@ -2,14 +2,15 @@
  {
   "id": "bg-holiday-2025-01-01-new-year-s-day",
   "category": "holidays",
-  "title": "New Year's Day: 2025-01-01 (regular holiday)",
-  "content": "New Year's Day falls on Wednesday, 1 January 2025 (2025-01-01). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "New Year's Day (Bagong Taon, New Year): 2025-01-01 (regular holiday)",
+  "content": "New Year's Day (Bagong Taon, New Year) falls on Wednesday, 1 January 2025 (2025-01-01). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "New",
    "Year's",
    "Day",
    "Bagong",
    "Taon",
+   "Year",
    "2025",
    "kailan",
    "ang",
@@ -41,8 +42,8 @@
  {
   "id": "bg-holiday-2025-01-29-chinese-new-year",
   "category": "holidays",
-  "title": "Chinese New Year: 2025-01-29 (special non-working day)",
-  "content": "Chinese New Year falls on Wednesday, 29 January 2025 (2025-01-29). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Chinese New Year (Bagong Taon ng mga Tsino): 2025-01-29 (special non-working day)",
+  "content": "Chinese New Year (Bagong Taon ng mga Tsino) falls on Wednesday, 29 January 2025 (2025-01-29). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Chinese",
    "New",
@@ -50,6 +51,7 @@
    "Bagong",
    "Taon",
    "ng",
+   "mga",
    "Tsino",
    "2025",
    "kailan",
@@ -83,8 +85,8 @@
  {
   "id": "bg-holiday-2025-02-25-edsa-people-power-revolution-anniversary",
   "category": "holidays",
-  "title": "EDSA People Power Revolution Anniversary (39th): 2025-02-25 (special working day)",
-  "content": "EDSA People Power Revolution Anniversary (39th) falls on Tuesday, 25 February 2025 (2025-02-25). It is a special working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "EDSA People Power Revolution Anniversary (39th) (EDSA anniversary): 2025-02-25 (special working day)",
+  "content": "EDSA People Power Revolution Anniversary (39th) (EDSA anniversary) falls on Tuesday, 25 February 2025 (2025-02-25). It is a special working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "EDSA",
    "People",
@@ -124,14 +126,19 @@
  {
   "id": "bg-holiday-2025-04-01-eid-l-fitr-feast-of-ramadhan",
   "category": "holidays",
-  "title": "Eid'l Fitr (Feast of Ramadhan): 2025-04-01 (regular holiday)",
-  "content": "Eid'l Fitr (Feast of Ramadhan) falls on Tuesday, 1 April 2025 (2025-04-01). It is a regular holiday. Basis: Proclamation No. 839, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_839_2025.html (checked 2026-10-15).",
+  "title": "Eid'l Fitr (Feast of Ramadhan) (Eid al-Fitr, Hari Raya Puasa): 2025-04-01 (regular holiday)",
+  "content": "Eid'l Fitr (Feast of Ramadhan) (Eid al-Fitr, Hari Raya Puasa) falls on Tuesday, 1 April 2025 (2025-04-01). It is a regular holiday. Basis: Proclamation No. 839, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_839_2025.html (checked 2026-10-15).",
   "keywords": [
    "Eid'l",
    "Fitr",
    "(Feast",
    "of",
    "Ramadhan)",
+   "Eid",
+   "al-Fitr",
+   "Hari",
+   "Raya",
+   "Puasa",
    "2025",
    "kailan",
    "ang",
@@ -163,8 +170,8 @@
  {
   "id": "bg-holiday-2025-04-09-araw-ng-kagitingan",
   "category": "holidays",
-  "title": "Araw ng Kagitingan: 2025-04-09 (regular holiday)",
-  "content": "Araw ng Kagitingan falls on Wednesday, 9 April 2025 (2025-04-09). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Araw ng Kagitingan (Day of Valor, Bataan Day): 2025-04-09 (regular holiday)",
+  "content": "Araw ng Kagitingan (Day of Valor, Bataan Day) falls on Wednesday, 9 April 2025 (2025-04-09). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Araw",
    "ng",
@@ -172,6 +179,7 @@
    "Day",
    "of",
    "Valor",
+   "Bataan",
    "2025",
    "kailan",
    "ang",
@@ -203,8 +211,8 @@
  {
   "id": "bg-holiday-2025-04-17-maundy-thursday",
   "category": "holidays",
-  "title": "Maundy Thursday: 2025-04-17 (regular holiday)",
-  "content": "Maundy Thursday falls on Thursday, 17 April 2025 (2025-04-17). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Maundy Thursday (Huwebes Santo): 2025-04-17 (regular holiday)",
+  "content": "Maundy Thursday (Huwebes Santo) falls on Thursday, 17 April 2025 (2025-04-17). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Maundy",
    "Thursday",
@@ -241,8 +249,8 @@
  {
   "id": "bg-holiday-2025-04-18-good-friday",
   "category": "holidays",
-  "title": "Good Friday: 2025-04-18 (regular holiday)",
-  "content": "Good Friday falls on Friday, 18 April 2025 (2025-04-18). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Good Friday (Biyernes Santo): 2025-04-18 (regular holiday)",
+  "content": "Good Friday (Biyernes Santo) falls on Friday, 18 April 2025 (2025-04-18). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Good",
    "Friday",
@@ -279,8 +287,8 @@
  {
   "id": "bg-holiday-2025-04-19-black-saturday",
   "category": "holidays",
-  "title": "Black Saturday: 2025-04-19 (special non-working day)",
-  "content": "Black Saturday falls on Saturday, 19 April 2025 (2025-04-19). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Black Saturday (Sabado de Gloria): 2025-04-19 (special non-working day)",
+  "content": "Black Saturday (Sabado de Gloria) falls on Saturday, 19 April 2025 (2025-04-19). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Black",
    "Saturday",
@@ -319,8 +327,8 @@
  {
   "id": "bg-holiday-2025-05-01-labor-day",
   "category": "holidays",
-  "title": "Labor Day: 2025-05-01 (regular holiday)",
-  "content": "Labor Day falls on Thursday, 1 May 2025 (2025-05-01). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Labor Day (Araw ng Paggawa): 2025-05-01 (regular holiday)",
+  "content": "Labor Day (Araw ng Paggawa) falls on Thursday, 1 May 2025 (2025-05-01). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Labor",
    "Day",
@@ -397,14 +405,19 @@
  {
   "id": "bg-holiday-2025-06-06-eid-l-adha-feast-of-sacrifice",
   "category": "holidays",
-  "title": "Eid'l Adha (Feast of Sacrifice): 2025-06-06 (regular holiday)",
-  "content": "Eid'l Adha (Feast of Sacrifice) falls on Friday, 6 June 2025 (2025-06-06). It is a regular holiday. Basis: Proclamation No. 911, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_911_2025.html (checked 2026-10-15).",
+  "title": "Eid'l Adha (Feast of Sacrifice) (Eid al-Adha, Hari Raya Haji): 2025-06-06 (regular holiday)",
+  "content": "Eid'l Adha (Feast of Sacrifice) (Eid al-Adha, Hari Raya Haji) falls on Friday, 6 June 2025 (2025-06-06). It is a regular holiday. Basis: Proclamation No. 911, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_911_2025.html (checked 2026-10-15).",
   "keywords": [
    "Eid'l",
    "Adha",
    "(Feast",
    "of",
    "Sacrifice)",
+   "Eid",
+   "al-Adha",
+   "Hari",
+   "Raya",
+   "Haji",
    "2025",
    "kailan",
    "ang",
@@ -436,8 +449,8 @@
  {
   "id": "bg-holiday-2025-06-12-independence-day",
   "category": "holidays",
-  "title": "Independence Day: 2025-06-12 (regular holiday)",
-  "content": "Independence Day falls on Thursday, 12 June 2025 (2025-06-12). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Independence Day (Araw ng Kalayaan): 2025-06-12 (regular holiday)",
+  "content": "Independence Day (Araw ng Kalayaan) falls on Thursday, 12 June 2025 (2025-06-12). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Independence",
    "Day",
@@ -475,14 +488,15 @@
  {
   "id": "bg-holiday-2025-07-27-iglesia-ni-cristo-founding-anniversary",
   "category": "holidays",
-  "title": "Iglesia ni Cristo Founding Anniversary: 2025-07-27 (special non-working day)",
-  "content": "Iglesia ni Cristo Founding Anniversary falls on Sunday, 27 July 2025 (2025-07-27). It is a special non-working day. Basis: Proclamation No. 729, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_729_2024.html (checked 2026-10-15).",
+  "title": "Iglesia ni Cristo Founding Anniversary (INC anniversary): 2025-07-27 (special non-working day)",
+  "content": "Iglesia ni Cristo Founding Anniversary (INC anniversary) falls on Sunday, 27 July 2025 (2025-07-27). It is a special non-working day. Basis: Proclamation No. 729, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_729_2024.html (checked 2026-10-15).",
   "keywords": [
    "Iglesia",
    "ni",
    "Cristo",
    "Founding",
    "Anniversary",
+   "INC",
    "2025",
    "kailan",
    "ang",
@@ -515,12 +529,14 @@
  {
   "id": "bg-holiday-2025-08-21-ninoy-aquino-day",
   "category": "holidays",
-  "title": "Ninoy Aquino Day: 2025-08-21 (special non-working day)",
-  "content": "Ninoy Aquino Day falls on Thursday, 21 August 2025 (2025-08-21). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Ninoy Aquino Day (Araw ni Ninoy Aquino): 2025-08-21 (special non-working day)",
+  "content": "Ninoy Aquino Day (Araw ni Ninoy Aquino) falls on Thursday, 21 August 2025 (2025-08-21). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Ninoy",
    "Aquino",
    "Day",
+   "Araw",
+   "ni",
    "2025",
    "kailan",
    "ang",
@@ -553,8 +569,8 @@
  {
   "id": "bg-holiday-2025-08-25-national-heroes-day",
   "category": "holidays",
-  "title": "National Heroes Day: 2025-08-25 (regular holiday)",
-  "content": "National Heroes Day falls on Monday, 25 August 2025 (2025-08-25). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "National Heroes Day (Araw ng mga Bayani): 2025-08-25 (regular holiday)",
+  "content": "National Heroes Day (Araw ng mga Bayani) falls on Monday, 25 August 2025 (2025-08-25). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "National",
    "Heroes",
@@ -594,8 +610,8 @@
  {
   "id": "bg-holiday-2025-10-31-all-saints-day-eve",
   "category": "holidays",
-  "title": "All Saints' Day Eve: 2025-10-31 (special non-working day)",
-  "content": "All Saints' Day Eve falls on Friday, 31 October 2025 (2025-10-31). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "All Saints' Day Eve (Undas, Todos los Santos): 2025-10-31 (special non-working day)",
+  "content": "All Saints' Day Eve (Undas, Todos los Santos) falls on Friday, 31 October 2025 (2025-10-31). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Saints'",
@@ -637,8 +653,8 @@
  {
   "id": "bg-holiday-2025-11-01-all-saints-day",
   "category": "holidays",
-  "title": "All Saints' Day: 2025-11-01 (special non-working day)",
-  "content": "All Saints' Day falls on Saturday, 1 November 2025 (2025-11-01). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "All Saints' Day (Undas, Todos los Santos): 2025-11-01 (special non-working day)",
+  "content": "All Saints' Day (Undas, Todos los Santos) falls on Saturday, 1 November 2025 (2025-11-01). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Saints'",
@@ -679,8 +695,8 @@
  {
   "id": "bg-holiday-2025-11-30-bonifacio-day",
   "category": "holidays",
-  "title": "Bonifacio Day: 2025-11-30 (regular holiday)",
-  "content": "Bonifacio Day falls on Sunday, 30 November 2025 (2025-11-30). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Bonifacio Day (Araw ni Bonifacio): 2025-11-30 (regular holiday)",
+  "content": "Bonifacio Day (Araw ni Bonifacio) falls on Sunday, 30 November 2025 (2025-11-30). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Bonifacio",
    "Day",
@@ -717,8 +733,8 @@
  {
   "id": "bg-holiday-2025-12-08-feast-of-the-immaculate-conception-of-ma",
   "category": "holidays",
-  "title": "Feast of the Immaculate Conception of Mary: 2025-12-08 (special non-working day)",
-  "content": "Feast of the Immaculate Conception of Mary falls on Monday, 8 December 2025 (2025-12-08). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Feast of the Immaculate Conception of Mary (Immaculate Conception): 2025-12-08 (special non-working day)",
+  "content": "Feast of the Immaculate Conception of Mary (Immaculate Conception) falls on Monday, 8 December 2025 (2025-12-08). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Feast",
    "of",
@@ -758,14 +774,16 @@
  {
   "id": "bg-holiday-2025-12-24-christmas-eve",
   "category": "holidays",
-  "title": "Christmas Eve: 2025-12-24 (special non-working day)",
-  "content": "Christmas Eve falls on Wednesday, 24 December 2025 (2025-12-24). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Christmas Eve (Bisperas ng Pasko, Noche Buena): 2025-12-24 (special non-working day)",
+  "content": "Christmas Eve (Bisperas ng Pasko, Noche Buena) falls on Wednesday, 24 December 2025 (2025-12-24). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Eve",
    "Bisperas",
    "ng",
    "Pasko",
+   "Noche",
+   "Buena",
    "2025",
    "kailan",
    "ang",
@@ -798,8 +816,8 @@
  {
   "id": "bg-holiday-2025-12-25-christmas-day",
   "category": "holidays",
-  "title": "Christmas Day: 2025-12-25 (regular holiday)",
-  "content": "Christmas Day falls on Thursday, 25 December 2025 (2025-12-25). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Christmas Day (Pasko, Christmas): 2025-12-25 (regular holiday)",
+  "content": "Christmas Day (Pasko, Christmas) falls on Thursday, 25 December 2025 (2025-12-25). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Day",
@@ -835,8 +853,8 @@
  {
   "id": "bg-holiday-2025-12-30-rizal-day",
   "category": "holidays",
-  "title": "Rizal Day: 2025-12-30 (regular holiday)",
-  "content": "Rizal Day falls on Tuesday, 30 December 2025 (2025-12-30). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Rizal Day (Araw ni Rizal): 2025-12-30 (regular holiday)",
+  "content": "Rizal Day (Araw ni Rizal) falls on Tuesday, 30 December 2025 (2025-12-30). It is a regular holiday. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Rizal",
    "Day",
@@ -873,8 +891,8 @@
  {
   "id": "bg-holiday-2025-12-31-last-day-of-the-year",
   "category": "holidays",
-  "title": "Last Day of the Year: 2025-12-31 (special non-working day)",
-  "content": "Last Day of the Year falls on Wednesday, 31 December 2025 (2025-12-31). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
+  "title": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve): 2025-12-31 (special non-working day)",
+  "content": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve) falls on Wednesday, 31 December 2025 (2025-12-31). It is a special non-working day. Basis: Proclamation No. 727, s. 2024.\nSource: https://lawphil.net/executive/proc/proc2024/proc_727_2024.html (checked 2026-10-15).",
   "keywords": [
    "Last",
    "Day",
@@ -885,6 +903,9 @@
    "ng",
    "Bagong",
    "Taon",
+   "New",
+   "Year's",
+   "Eve",
    "2025",
    "kailan",
    "ang",
@@ -983,14 +1004,15 @@
  {
   "id": "bg-holiday-2026-01-01-new-year-s-day",
   "category": "holidays",
-  "title": "New Year's Day: 2026-01-01 (regular holiday)",
-  "content": "New Year's Day falls on Thursday, 1 January 2026 (2026-01-01). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "New Year's Day (Bagong Taon, New Year): 2026-01-01 (regular holiday)",
+  "content": "New Year's Day (Bagong Taon, New Year) falls on Thursday, 1 January 2026 (2026-01-01). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "New",
    "Year's",
    "Day",
    "Bagong",
    "Taon",
+   "Year",
    "2026",
    "kailan",
    "ang",
@@ -1022,8 +1044,8 @@
  {
   "id": "bg-holiday-2026-02-17-chinese-new-year",
   "category": "holidays",
-  "title": "Chinese New Year: 2026-02-17 (special non-working day)",
-  "content": "Chinese New Year falls on Tuesday, 17 February 2026 (2026-02-17). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Chinese New Year (Bagong Taon ng mga Tsino): 2026-02-17 (special non-working day)",
+  "content": "Chinese New Year (Bagong Taon ng mga Tsino) falls on Tuesday, 17 February 2026 (2026-02-17). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Chinese",
    "New",
@@ -1031,6 +1053,7 @@
    "Bagong",
    "Taon",
    "ng",
+   "mga",
    "Tsino",
    "2026",
    "kailan",
@@ -1064,8 +1087,8 @@
  {
   "id": "bg-holiday-2026-02-25-edsa-people-power-revolution-anniversary",
   "category": "holidays",
-  "title": "EDSA People Power Revolution Anniversary (40th): 2026-02-25 (special working day)",
-  "content": "EDSA People Power Revolution Anniversary (40th) falls on Wednesday, 25 February 2026 (2026-02-25). It is a special working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "EDSA People Power Revolution Anniversary (40th) (EDSA anniversary): 2026-02-25 (special working day)",
+  "content": "EDSA People Power Revolution Anniversary (40th) (EDSA anniversary) falls on Wednesday, 25 February 2026 (2026-02-25). It is a special working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "EDSA",
    "People",
@@ -1105,14 +1128,19 @@
  {
   "id": "bg-holiday-2026-03-20-eid-l-fitr-feast-of-ramadhan",
   "category": "holidays",
-  "title": "Eid'l Fitr (Feast of Ramadhan): 2026-03-20 (regular holiday)",
-  "content": "Eid'l Fitr (Feast of Ramadhan) falls on Friday, 20 March 2026 (2026-03-20). It is a regular holiday. Basis: Proclamation No. 1189, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1189_2026.html (checked 2026-10-15).",
+  "title": "Eid'l Fitr (Feast of Ramadhan) (Eid al-Fitr, Hari Raya Puasa): 2026-03-20 (regular holiday)",
+  "content": "Eid'l Fitr (Feast of Ramadhan) (Eid al-Fitr, Hari Raya Puasa) falls on Friday, 20 March 2026 (2026-03-20). It is a regular holiday. Basis: Proclamation No. 1189, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1189_2026.html (checked 2026-10-15).",
   "keywords": [
    "Eid'l",
    "Fitr",
    "(Feast",
    "of",
    "Ramadhan)",
+   "Eid",
+   "al-Fitr",
+   "Hari",
+   "Raya",
+   "Puasa",
    "2026",
    "kailan",
    "ang",
@@ -1144,8 +1172,8 @@
  {
   "id": "bg-holiday-2026-04-02-maundy-thursday",
   "category": "holidays",
-  "title": "Maundy Thursday: 2026-04-02 (regular holiday)",
-  "content": "Maundy Thursday falls on Thursday, 2 April 2026 (2026-04-02). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Maundy Thursday (Huwebes Santo): 2026-04-02 (regular holiday)",
+  "content": "Maundy Thursday (Huwebes Santo) falls on Thursday, 2 April 2026 (2026-04-02). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Maundy",
    "Thursday",
@@ -1182,8 +1210,8 @@
  {
   "id": "bg-holiday-2026-04-03-good-friday",
   "category": "holidays",
-  "title": "Good Friday: 2026-04-03 (regular holiday)",
-  "content": "Good Friday falls on Friday, 3 April 2026 (2026-04-03). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Good Friday (Biyernes Santo): 2026-04-03 (regular holiday)",
+  "content": "Good Friday (Biyernes Santo) falls on Friday, 3 April 2026 (2026-04-03). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Good",
    "Friday",
@@ -1220,8 +1248,8 @@
  {
   "id": "bg-holiday-2026-04-04-black-saturday",
   "category": "holidays",
-  "title": "Black Saturday: 2026-04-04 (special non-working day)",
-  "content": "Black Saturday falls on Saturday, 4 April 2026 (2026-04-04). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Black Saturday (Sabado de Gloria): 2026-04-04 (special non-working day)",
+  "content": "Black Saturday (Sabado de Gloria) falls on Saturday, 4 April 2026 (2026-04-04). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Black",
    "Saturday",
@@ -1260,8 +1288,8 @@
  {
   "id": "bg-holiday-2026-04-09-araw-ng-kagitingan",
   "category": "holidays",
-  "title": "Araw ng Kagitingan: 2026-04-09 (regular holiday)",
-  "content": "Araw ng Kagitingan falls on Thursday, 9 April 2026 (2026-04-09). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Araw ng Kagitingan (Day of Valor, Bataan Day): 2026-04-09 (regular holiday)",
+  "content": "Araw ng Kagitingan (Day of Valor, Bataan Day) falls on Thursday, 9 April 2026 (2026-04-09). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Araw",
    "ng",
@@ -1269,6 +1297,7 @@
    "Day",
    "of",
    "Valor",
+   "Bataan",
    "2026",
    "kailan",
    "ang",
@@ -1300,8 +1329,8 @@
  {
   "id": "bg-holiday-2026-05-01-labor-day",
   "category": "holidays",
-  "title": "Labor Day: 2026-05-01 (regular holiday)",
-  "content": "Labor Day falls on Friday, 1 May 2026 (2026-05-01). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Labor Day (Araw ng Paggawa): 2026-05-01 (regular holiday)",
+  "content": "Labor Day (Araw ng Paggawa) falls on Friday, 1 May 2026 (2026-05-01). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Labor",
    "Day",
@@ -1339,14 +1368,19 @@
  {
   "id": "bg-holiday-2026-05-27-eid-l-adha-feast-of-sacrifice",
   "category": "holidays",
-  "title": "Eid'l Adha (Feast of Sacrifice): 2026-05-27 (regular holiday)",
-  "content": "Eid'l Adha (Feast of Sacrifice) falls on Wednesday, 27 May 2026 (2026-05-27). It is a regular holiday. Basis: Proclamation No. 1264, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1264_2026.html (checked 2026-10-15).",
+  "title": "Eid'l Adha (Feast of Sacrifice) (Eid al-Adha, Hari Raya Haji): 2026-05-27 (regular holiday)",
+  "content": "Eid'l Adha (Feast of Sacrifice) (Eid al-Adha, Hari Raya Haji) falls on Wednesday, 27 May 2026 (2026-05-27). It is a regular holiday. Basis: Proclamation No. 1264, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1264_2026.html (checked 2026-10-15).",
   "keywords": [
    "Eid'l",
    "Adha",
    "(Feast",
    "of",
    "Sacrifice)",
+   "Eid",
+   "al-Adha",
+   "Hari",
+   "Raya",
+   "Haji",
    "2026",
    "kailan",
    "ang",
@@ -1378,8 +1412,8 @@
  {
   "id": "bg-holiday-2026-06-12-independence-day",
   "category": "holidays",
-  "title": "Independence Day: 2026-06-12 (regular holiday)",
-  "content": "Independence Day falls on Friday, 12 June 2026 (2026-06-12). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Independence Day (Araw ng Kalayaan): 2026-06-12 (regular holiday)",
+  "content": "Independence Day (Araw ng Kalayaan) falls on Friday, 12 June 2026 (2026-06-12). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Independence",
    "Day",
@@ -1417,12 +1451,14 @@
  {
   "id": "bg-holiday-2026-08-21-ninoy-aquino-day",
   "category": "holidays",
-  "title": "Ninoy Aquino Day: 2026-08-21 (special non-working day)",
-  "content": "Ninoy Aquino Day falls on Friday, 21 August 2026 (2026-08-21). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Ninoy Aquino Day (Araw ni Ninoy Aquino): 2026-08-21 (special non-working day)",
+  "content": "Ninoy Aquino Day (Araw ni Ninoy Aquino) falls on Friday, 21 August 2026 (2026-08-21). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Ninoy",
    "Aquino",
    "Day",
+   "Araw",
+   "ni",
    "2026",
    "kailan",
    "ang",
@@ -1455,8 +1491,8 @@
  {
   "id": "bg-holiday-2026-08-31-national-heroes-day",
   "category": "holidays",
-  "title": "National Heroes Day: 2026-08-31 (regular holiday)",
-  "content": "National Heroes Day falls on Monday, 31 August 2026 (2026-08-31). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "National Heroes Day (Araw ng mga Bayani): 2026-08-31 (regular holiday)",
+  "content": "National Heroes Day (Araw ng mga Bayani) falls on Monday, 31 August 2026 (2026-08-31). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "National",
    "Heroes",
@@ -1496,8 +1532,8 @@
  {
   "id": "bg-holiday-2026-11-01-all-saints-day",
   "category": "holidays",
-  "title": "All Saints' Day: 2026-11-01 (special non-working day)",
-  "content": "All Saints' Day falls on Sunday, 1 November 2026 (2026-11-01). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "All Saints' Day (Undas, Todos los Santos): 2026-11-01 (special non-working day)",
+  "content": "All Saints' Day (Undas, Todos los Santos) falls on Sunday, 1 November 2026 (2026-11-01). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Saints'",
@@ -1538,16 +1574,16 @@
  {
   "id": "bg-holiday-2026-11-02-all-souls-day",
   "category": "holidays",
-  "title": "All Souls' Day: 2026-11-02 (special non-working day)",
-  "content": "All Souls' Day falls on Monday, 2 November 2026 (2026-11-02). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "All Souls' Day (Araw ng mga Kaluluwa, Araw ng mga Patay): 2026-11-02 (special non-working day)",
+  "content": "All Souls' Day (Araw ng mga Kaluluwa, Araw ng mga Patay) falls on Monday, 2 November 2026 (2026-11-02). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Souls'",
    "Day",
-   "Undas",
    "Araw",
    "ng",
    "mga",
+   "Kaluluwa",
    "Patay",
    "2026",
    "kailan",
@@ -1581,8 +1617,8 @@
  {
   "id": "bg-holiday-2026-11-30-bonifacio-day",
   "category": "holidays",
-  "title": "Bonifacio Day: 2026-11-30 (regular holiday)",
-  "content": "Bonifacio Day falls on Monday, 30 November 2026 (2026-11-30). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Bonifacio Day (Araw ni Bonifacio): 2026-11-30 (regular holiday)",
+  "content": "Bonifacio Day (Araw ni Bonifacio) falls on Monday, 30 November 2026 (2026-11-30). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Bonifacio",
    "Day",
@@ -1619,8 +1655,8 @@
  {
   "id": "bg-holiday-2026-12-08-feast-of-the-immaculate-conception-of-ma",
   "category": "holidays",
-  "title": "Feast of the Immaculate Conception of Mary: 2026-12-08 (special non-working day)",
-  "content": "Feast of the Immaculate Conception of Mary falls on Tuesday, 8 December 2026 (2026-12-08). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Feast of the Immaculate Conception of Mary (Immaculate Conception): 2026-12-08 (special non-working day)",
+  "content": "Feast of the Immaculate Conception of Mary (Immaculate Conception) falls on Tuesday, 8 December 2026 (2026-12-08). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Feast",
    "of",
@@ -1660,14 +1696,16 @@
  {
   "id": "bg-holiday-2026-12-24-christmas-eve",
   "category": "holidays",
-  "title": "Christmas Eve: 2026-12-24 (special non-working day)",
-  "content": "Christmas Eve falls on Thursday, 24 December 2026 (2026-12-24). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Christmas Eve (Bisperas ng Pasko, Noche Buena): 2026-12-24 (special non-working day)",
+  "content": "Christmas Eve (Bisperas ng Pasko, Noche Buena) falls on Thursday, 24 December 2026 (2026-12-24). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Eve",
    "Bisperas",
    "ng",
    "Pasko",
+   "Noche",
+   "Buena",
    "2026",
    "kailan",
    "ang",
@@ -1700,8 +1738,8 @@
  {
   "id": "bg-holiday-2026-12-25-christmas-day",
   "category": "holidays",
-  "title": "Christmas Day: 2026-12-25 (regular holiday)",
-  "content": "Christmas Day falls on Friday, 25 December 2026 (2026-12-25). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Christmas Day (Pasko, Christmas): 2026-12-25 (regular holiday)",
+  "content": "Christmas Day (Pasko, Christmas) falls on Friday, 25 December 2026 (2026-12-25). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Day",
@@ -1737,8 +1775,8 @@
  {
   "id": "bg-holiday-2026-12-30-rizal-day",
   "category": "holidays",
-  "title": "Rizal Day: 2026-12-30 (regular holiday)",
-  "content": "Rizal Day falls on Wednesday, 30 December 2026 (2026-12-30). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Rizal Day (Araw ni Rizal): 2026-12-30 (regular holiday)",
+  "content": "Rizal Day (Araw ni Rizal) falls on Wednesday, 30 December 2026 (2026-12-30). It is a regular holiday. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Rizal",
    "Day",
@@ -1775,8 +1813,8 @@
  {
   "id": "bg-holiday-2026-12-31-last-day-of-the-year",
   "category": "holidays",
-  "title": "Last Day of the Year: 2026-12-31 (special non-working day)",
-  "content": "Last Day of the Year falls on Thursday, 31 December 2026 (2026-12-31). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
+  "title": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve): 2026-12-31 (special non-working day)",
+  "content": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve) falls on Thursday, 31 December 2026 (2026-12-31). It is a special non-working day. Basis: Proclamation No. 1006, s. 2025.\nSource: https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked 2026-10-15).",
   "keywords": [
    "Last",
    "Day",
@@ -1787,6 +1825,9 @@
    "ng",
    "Bagong",
    "Taon",
+   "New",
+   "Year's",
+   "Eve",
    "2026",
    "kailan",
    "ang",
@@ -1885,14 +1926,15 @@
  {
   "id": "bg-holiday-2027-01-01-new-year-s-day",
   "category": "holidays",
-  "title": "New Year's Day: 2027-01-01 (regular holiday)",
-  "content": "New Year's Day falls on Friday, 1 January 2027 (2027-01-01). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "New Year's Day (Bagong Taon, New Year): 2027-01-01 (regular holiday)",
+  "content": "New Year's Day (Bagong Taon, New Year) falls on Friday, 1 January 2027 (2027-01-01). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "New",
    "Year's",
    "Day",
    "Bagong",
    "Taon",
+   "Year",
    "2027",
    "kailan",
    "ang",
@@ -1924,8 +1966,8 @@
  {
   "id": "bg-holiday-2027-02-06-chinese-new-year",
   "category": "holidays",
-  "title": "Chinese New Year: 2027-02-06 (special non-working day)",
-  "content": "Chinese New Year falls on Saturday, 6 February 2027 (2027-02-06). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Chinese New Year (Bagong Taon ng mga Tsino): 2027-02-06 (special non-working day)",
+  "content": "Chinese New Year (Bagong Taon ng mga Tsino) falls on Saturday, 6 February 2027 (2027-02-06). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Chinese",
    "New",
@@ -1933,6 +1975,7 @@
    "Bagong",
    "Taon",
    "ng",
+   "mga",
    "Tsino",
    "2027",
    "kailan",
@@ -1966,8 +2009,8 @@
  {
   "id": "bg-holiday-2027-02-25-edsa-people-power-revolution-anniversary",
   "category": "holidays",
-  "title": "EDSA People Power Revolution Anniversary (41st): 2027-02-25 (special working day)",
-  "content": "EDSA People Power Revolution Anniversary (41st) falls on Thursday, 25 February 2027 (2027-02-25). It is a special working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "EDSA People Power Revolution Anniversary (41st) (EDSA anniversary): 2027-02-25 (special working day)",
+  "content": "EDSA People Power Revolution Anniversary (41st) (EDSA anniversary) falls on Thursday, 25 February 2027 (2027-02-25). It is a special working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "EDSA",
    "People",
@@ -2007,8 +2050,8 @@
  {
   "id": "bg-holiday-2027-03-25-maundy-thursday",
   "category": "holidays",
-  "title": "Maundy Thursday: 2027-03-25 (regular holiday)",
-  "content": "Maundy Thursday falls on Thursday, 25 March 2027 (2027-03-25). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Maundy Thursday (Huwebes Santo): 2027-03-25 (regular holiday)",
+  "content": "Maundy Thursday (Huwebes Santo) falls on Thursday, 25 March 2027 (2027-03-25). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Maundy",
    "Thursday",
@@ -2045,8 +2088,8 @@
  {
   "id": "bg-holiday-2027-03-26-good-friday",
   "category": "holidays",
-  "title": "Good Friday: 2027-03-26 (regular holiday)",
-  "content": "Good Friday falls on Friday, 26 March 2027 (2027-03-26). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Good Friday (Biyernes Santo): 2027-03-26 (regular holiday)",
+  "content": "Good Friday (Biyernes Santo) falls on Friday, 26 March 2027 (2027-03-26). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Good",
    "Friday",
@@ -2083,8 +2126,8 @@
  {
   "id": "bg-holiday-2027-03-27-black-saturday",
   "category": "holidays",
-  "title": "Black Saturday: 2027-03-27 (special non-working day)",
-  "content": "Black Saturday falls on Saturday, 27 March 2027 (2027-03-27). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Black Saturday (Sabado de Gloria): 2027-03-27 (special non-working day)",
+  "content": "Black Saturday (Sabado de Gloria) falls on Saturday, 27 March 2027 (2027-03-27). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Black",
    "Saturday",
@@ -2123,8 +2166,8 @@
  {
   "id": "bg-holiday-2027-04-09-araw-ng-kagitingan",
   "category": "holidays",
-  "title": "Araw ng Kagitingan: 2027-04-09 (regular holiday)",
-  "content": "Araw ng Kagitingan falls on Friday, 9 April 2027 (2027-04-09). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Araw ng Kagitingan (Day of Valor, Bataan Day): 2027-04-09 (regular holiday)",
+  "content": "Araw ng Kagitingan (Day of Valor, Bataan Day) falls on Friday, 9 April 2027 (2027-04-09). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Araw",
    "ng",
@@ -2132,6 +2175,7 @@
    "Day",
    "of",
    "Valor",
+   "Bataan",
    "2027",
    "kailan",
    "ang",
@@ -2163,8 +2207,8 @@
  {
   "id": "bg-holiday-2027-05-01-labor-day",
   "category": "holidays",
-  "title": "Labor Day: 2027-05-01 (regular holiday)",
-  "content": "Labor Day falls on Saturday, 1 May 2027 (2027-05-01). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Labor Day (Araw ng Paggawa): 2027-05-01 (regular holiday)",
+  "content": "Labor Day (Araw ng Paggawa) falls on Saturday, 1 May 2027 (2027-05-01). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Labor",
    "Day",
@@ -2202,8 +2246,8 @@
  {
   "id": "bg-holiday-2027-06-12-independence-day",
   "category": "holidays",
-  "title": "Independence Day: 2027-06-12 (regular holiday)",
-  "content": "Independence Day falls on Saturday, 12 June 2027 (2027-06-12). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Independence Day (Araw ng Kalayaan): 2027-06-12 (regular holiday)",
+  "content": "Independence Day (Araw ng Kalayaan) falls on Saturday, 12 June 2027 (2027-06-12). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Independence",
    "Day",
@@ -2241,12 +2285,14 @@
  {
   "id": "bg-holiday-2027-08-21-ninoy-aquino-day",
   "category": "holidays",
-  "title": "Ninoy Aquino Day: 2027-08-21 (special non-working day)",
-  "content": "Ninoy Aquino Day falls on Saturday, 21 August 2027 (2027-08-21). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Ninoy Aquino Day (Araw ni Ninoy Aquino): 2027-08-21 (special non-working day)",
+  "content": "Ninoy Aquino Day (Araw ni Ninoy Aquino) falls on Saturday, 21 August 2027 (2027-08-21). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Ninoy",
    "Aquino",
    "Day",
+   "Araw",
+   "ni",
    "2027",
    "kailan",
    "ang",
@@ -2279,8 +2325,8 @@
  {
   "id": "bg-holiday-2027-08-30-national-heroes-day",
   "category": "holidays",
-  "title": "National Heroes Day: 2027-08-30 (regular holiday)",
-  "content": "National Heroes Day falls on Monday, 30 August 2027 (2027-08-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "National Heroes Day (Araw ng mga Bayani): 2027-08-30 (regular holiday)",
+  "content": "National Heroes Day (Araw ng mga Bayani) falls on Monday, 30 August 2027 (2027-08-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "National",
    "Heroes",
@@ -2320,8 +2366,8 @@
  {
   "id": "bg-holiday-2027-11-01-all-saints-day",
   "category": "holidays",
-  "title": "All Saints' Day: 2027-11-01 (special non-working day)",
-  "content": "All Saints' Day falls on Monday, 1 November 2027 (2027-11-01). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "All Saints' Day (Undas, Todos los Santos): 2027-11-01 (special non-working day)",
+  "content": "All Saints' Day (Undas, Todos los Santos) falls on Monday, 1 November 2027 (2027-11-01). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Saints'",
@@ -2362,16 +2408,16 @@
  {
   "id": "bg-holiday-2027-11-02-all-souls-day",
   "category": "holidays",
-  "title": "All Souls' Day: 2027-11-02 (special non-working day)",
-  "content": "All Souls' Day falls on Tuesday, 2 November 2027 (2027-11-02). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "All Souls' Day (Araw ng mga Kaluluwa, Araw ng mga Patay): 2027-11-02 (special non-working day)",
+  "content": "All Souls' Day (Araw ng mga Kaluluwa, Araw ng mga Patay) falls on Tuesday, 2 November 2027 (2027-11-02). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "All",
    "Souls'",
    "Day",
-   "Undas",
    "Araw",
    "ng",
    "mga",
+   "Kaluluwa",
    "Patay",
    "2027",
    "kailan",
@@ -2405,8 +2451,8 @@
  {
   "id": "bg-holiday-2027-11-30-bonifacio-day",
   "category": "holidays",
-  "title": "Bonifacio Day: 2027-11-30 (regular holiday)",
-  "content": "Bonifacio Day falls on Tuesday, 30 November 2027 (2027-11-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Bonifacio Day (Araw ni Bonifacio): 2027-11-30 (regular holiday)",
+  "content": "Bonifacio Day (Araw ni Bonifacio) falls on Tuesday, 30 November 2027 (2027-11-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Bonifacio",
    "Day",
@@ -2443,8 +2489,8 @@
  {
   "id": "bg-holiday-2027-12-08-feast-of-the-immaculate-conception-of-ma",
   "category": "holidays",
-  "title": "Feast of the Immaculate Conception of Mary: 2027-12-08 (special non-working day)",
-  "content": "Feast of the Immaculate Conception of Mary falls on Wednesday, 8 December 2027 (2027-12-08). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Feast of the Immaculate Conception of Mary (Immaculate Conception): 2027-12-08 (special non-working day)",
+  "content": "Feast of the Immaculate Conception of Mary (Immaculate Conception) falls on Wednesday, 8 December 2027 (2027-12-08). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Feast",
    "of",
@@ -2484,14 +2530,16 @@
  {
   "id": "bg-holiday-2027-12-24-christmas-eve",
   "category": "holidays",
-  "title": "Christmas Eve: 2027-12-24 (special non-working day)",
-  "content": "Christmas Eve falls on Friday, 24 December 2027 (2027-12-24). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Christmas Eve (Bisperas ng Pasko, Noche Buena): 2027-12-24 (special non-working day)",
+  "content": "Christmas Eve (Bisperas ng Pasko, Noche Buena) falls on Friday, 24 December 2027 (2027-12-24). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Eve",
    "Bisperas",
    "ng",
    "Pasko",
+   "Noche",
+   "Buena",
    "2027",
    "kailan",
    "ang",
@@ -2524,8 +2572,8 @@
  {
   "id": "bg-holiday-2027-12-25-christmas-day",
   "category": "holidays",
-  "title": "Christmas Day: 2027-12-25 (regular holiday)",
-  "content": "Christmas Day falls on Saturday, 25 December 2027 (2027-12-25). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Christmas Day (Pasko, Christmas): 2027-12-25 (regular holiday)",
+  "content": "Christmas Day (Pasko, Christmas) falls on Saturday, 25 December 2027 (2027-12-25). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Christmas",
    "Day",
@@ -2561,8 +2609,8 @@
  {
   "id": "bg-holiday-2027-12-30-rizal-day",
   "category": "holidays",
-  "title": "Rizal Day: 2027-12-30 (regular holiday)",
-  "content": "Rizal Day falls on Thursday, 30 December 2027 (2027-12-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Rizal Day (Araw ni Rizal): 2027-12-30 (regular holiday)",
+  "content": "Rizal Day (Araw ni Rizal) falls on Thursday, 30 December 2027 (2027-12-30). It is a regular holiday. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Rizal",
    "Day",
@@ -2599,8 +2647,8 @@
  {
   "id": "bg-holiday-2027-12-31-last-day-of-the-year",
   "category": "holidays",
-  "title": "Last Day of the Year: 2027-12-31 (special non-working day)",
-  "content": "Last Day of the Year falls on Friday, 31 December 2027 (2027-12-31). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
+  "title": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve): 2027-12-31 (special non-working day)",
+  "content": "Last Day of the Year (Bisperas ng Bagong Taon, New Year's Eve) falls on Friday, 31 December 2027 (2027-12-31). It is a special non-working day. Basis: Proclamation No. 1427, s. 2026.\nSource: https://lawphil.net/executive/proc/proc2026/proc_1427_2026.html (checked 2026-10-15).",
   "keywords": [
    "Last",
    "Day",
@@ -2611,6 +2659,9 @@
    "ng",
    "Bagong",
    "Taon",
+   "New",
+   "Year's",
+   "Eve",
    "2027",
    "kailan",
    "ang",
